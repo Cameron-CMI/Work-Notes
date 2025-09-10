@@ -10,11 +10,12 @@
 ## Meeting Notes
 ### Bi-weekly Tech Meeting
 #### New Business
-- AutoCAD NUL renewing 10/27, currently set to not auto-renew. Will verify closer to the date as well. 
-- Check-in on equipment updates/Windows 10 deprec.
+
 - 
 #### Old Business
-- Status of CM FD Mats KB + Obsidian
+- Status of CM FD Mats KB + Obsidian -> 
+- AutoCAD NUL renewing 10/27, currently set to not auto-renew. Will verify closer to the date as well. 
+- Check-in on equipment updates/Windows 10 deprec.
 
 ## Wishlist
 
